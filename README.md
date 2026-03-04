@@ -55,6 +55,7 @@ Machine Learning
 4️⃣ Train machine learning model
 5️⃣ Evaluate model performance
 6️⃣ Predict health score of new food items
+    Use Food_Nutrition_Analyzer file to run on local site(Stream lit)
 
 
 
